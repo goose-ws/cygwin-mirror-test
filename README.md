@@ -12,6 +12,10 @@ docker run --rm ghcr.io/goose-ws/cygwin-mirror-test:latest
 
 ```
 
+Output looks like:
+
+<img width="564" height="461" alt="image" src="https://github.com/user-attachments/assets/1dcf7dc2-9630-4855-8124-296d726fa60f" />
+
 ### Advanced Options
 
 You can pass arguments directly to the container to adjust concurrency or timeouts:
